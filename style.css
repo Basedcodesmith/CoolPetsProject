@@ -1,0 +1,104 @@
+header {
+    display: flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: space-between;
+    background-color: #061130;
+
+
+}
+
+.services {
+    display: flex;
+    justify-content: center;
+    padding-top: 3.5em;
+}
+
+
+.paragraph {
+    color: white;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+header>nav {
+    display: flex;
+
+}
+
+nav>span {
+    padding: 0rem .0em 0rem 1rem;
+    color: white;
+
+}
+
+
+
+img {
+    height: 1 0vh;
+}
+
+
+main {
+    background-color: #061130;
+    color: white;
+}
+
+footer {
+
+    justify-content: center;
+
+}
+
+.footerstuff {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding: 02em 5em 2em 5em
+}
+
+.world {
+    display: flex;
+
+    width: 50vw;
+
+
+}
+
+button {
+    border-radius: 20%;
+
+
+}
+
+.signUp {
+    background-color: aqua
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+.underbottom {
+
+
+    display: block;
+
+
+}
+
+.lastp {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    width: 25vw;
+    color: yellow;
+
+
+}
